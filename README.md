@@ -1,11 +1,10 @@
-# Sleep Visualization
-#### Reddit submission: My terrible sleep habits visualized [OC]
- 
-27,000 views  
-1,200 upvotes  
-69 comments  
+# Life-Battery
+#### Reddit Submission: Life’s Charge – A finite existence demonstrated through a visual countdown of a typical 4160-week life. Each dot represents a week, and each row is a year. (Animated) [OC]
 
-Image generated with the use of [CImg](http://cimg.eu/) (CImg.h)  
+105,000 views  
+12,300 upvotes  
+650 comments  
+1 gold  
 
-[_Reddit_](https://www.reddit.com/r/dataisbeautiful/comments/6jtxrn/my_terrible_sleep_habits_visualized_oc/)  
-[_Imgur_](https://imgur.com/S1L4tOT)
+[_Reddit_](https://www.reddit.com/r/dataisbeautiful/comments/6ry4dz/lifes_charge_a_finite_existence_demonstrated/)  
+[_Imgur_](https://imgur.com/S1L4tOT)  
