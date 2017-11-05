@@ -8,4 +8,4 @@
 Image generated with the use of [CImg](http://cimg.eu/) (CImg.h)  
 
 [_Reddit_](https://www.reddit.com/r/dataisbeautiful/comments/6jtxrn/my_terrible_sleep_habits_visualized_oc/)  
-[_Imgur album_](https://imgur.com/a/fd5ih)  
+[_Imgur_](https://imgur.com/S1L4tOT)
