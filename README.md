@@ -6,6 +6,6 @@
 650 comments  
 1 gold  
 
-Image generation made with [CImg](http://cimg.eu/) (CImg.h)  
+Image generated with the use of [CImg](http://cimg.eu/) (CImg.h)  
 
 [_reddit_](https://www.reddit.com/r/dataisbeautiful/comments/6ry4dz/lifes_charge_a_finite_existence_demonstrated/)  
