@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “charge_countdown_080.aep”
+
+Rendering started on 2017-08-04 at 5:00:18 AM
+
+  2017-08-04 5:00:18 AM: Starting composition “04 MASTER”.
+
+  Output To: C:\Users\Tommy Deng\Documents\Reddit\Submission\004- Countdown To Death (OC)\03 EXPORTS\life_charge_080C.mov    2017-08-04 5:04:41 AM: Finished composition “04 MASTER”.
+
+
+  Total Time Elapsed: 4 Min, 20 Sec
+Log closed on 2017-08-04 at 5:04:41 AM
+
